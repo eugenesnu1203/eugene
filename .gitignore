@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+
+**/.vs/
+**/Binaries/
+**/intermediates/
+**/x64/
